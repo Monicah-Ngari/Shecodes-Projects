@@ -102,11 +102,18 @@ p {
         text-align: center;
     }
 
-    .my-images {
-        display: none;
-    }
-
-    body {
+    .project-link {
+        display: block;
         text-align: center;
+        margin: 0 20px;
     }
+}
+
+.my-images {
+    display: none;
+}
+
+body {
+    text-align: center;
+}
 }
